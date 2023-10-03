@@ -17,7 +17,6 @@ namespace ConsoleApp1
                 {
                     if (nums[j] == nums[i])
                         count++;
-
                 }
 
             }
