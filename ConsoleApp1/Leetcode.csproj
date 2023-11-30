@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="1. Two Sum.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="1. Two Sum.cs" />
+  </ItemGroup>
+
 </Project>
